@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\DS\Double linked list\Empty Project\dll_tester.h(133,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\Double linked list\Empty Project\dll_tester.h(136,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\Double linked list\Empty Project\dll_tester.h(152,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\Double linked list\Empty Project\dll_tester.h(155,19): warning C4101: 'ex': unreferenced local variable
+  Double linked list.vcxproj -> C:\Users\Mohammad Bayati\source\repos\Double linked list\Debug\Double linked list.exe

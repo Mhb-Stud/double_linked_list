@@ -1,0 +1,11 @@
+﻿  source.cpp
+C:\DS\Double linked list\Empty Project\dll_tester.h(133,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\Double linked list\Empty Project\dll_tester.h(136,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\Double linked list\Empty Project\dll_tester.h(152,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\Double linked list\Empty Project\dll_tester.h(155,19): warning C4101: 'ex': unreferenced local variable
+  Generating code
+  34 of 349 functions ( 9.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Double linked list.vcxproj -> C:\Users\Mohammad Bayati\source\repos\Double linked list\Release\Double linked list.exe
